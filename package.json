@@ -1,0 +1,20 @@
+{
+  "name": "pro-state",
+  "version": "0.0.1",
+  "description": "State handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro-state/pro-state.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pro-state/pro-state/issues"
+  },
+  "homepage": "https://github.com/pro-state/pro-state#readme",
+  "dependencies": {}
+}
